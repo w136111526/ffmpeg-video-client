@@ -1,1 +1,2 @@
-https://github.com/w136111526/Fm_VideoClient/raw/master/demo.png
+#说明
+该视频解码器支持播放网络视频，本地文件，本地摄像头，桌面抓取等数据采集。
