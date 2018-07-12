@@ -6,4 +6,6 @@
 .duilib下多路网络视频播放demo.内部采用opencv播放（D3D播放版本暂未上传）<br>
 #第三方开源库<br>
 .opencv;dlib;opencv;SSE;ipp;boost库<br>
-.boost文件过大需自己去官网下载编译<br>
+.boost文件过大需自己去官网下载编译< BR >
+＃其他
+。如需要其他相关开源库代码，qq:136111526
